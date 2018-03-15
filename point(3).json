@@ -1,0 +1,37 @@
+{
+  "errorCode": 0,
+  "errorString": "ok",
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 38.793302,
+          "lon": 0.176905
+        }
+      },
+      "icon": {
+        "url": "https://es.wikipedia.org/wiki/Centro_de_salud#/media/File:Cartel_de_centro_de_salud_(RPS_12-10-2014).png"
+      },
+      "id": 1,
+      "text": {
+        "title": "CS"
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 38.794094,
+          "lon": 0.182032
+        }
+      },
+      "icon": {
+        "url": "https://lh3.googleusercontent.com/-33uViEUiecg/U5_G_RnaveI/AAAAAAAAx4s/7HSEFoYylps/s2048/barco-velero-gifs-animados%252520%2525283%252529.gif"
+      },
+      "id": 1,
+      "text": {
+        "title": "PLAYA"
+      }
+    }
+  ],
+  "layer": "pointdim2"
+}
